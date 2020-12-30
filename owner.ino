@@ -12,8 +12,8 @@
 #include <ESP8266HTTPClient.h>
 #include <LedControl.h>
 //////////////////////////////////////
-const char* ssid     = "R&D";     // Change here Network credentials Name
-const char* password = "R&D123456"; //// chnage here Network credentials Password
+const char* ssid     = "ssid";     // Change here Network credentials Name
+const char* password = "password"; //// chnage here Network credentials Password
 //////////////////////////////////////////////
 WiFiServer server(80);
 ////////////////////////////   Input and Output Devices /////////////////////
